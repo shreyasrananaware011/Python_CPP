@@ -1,6 +1,6 @@
 math = 40
 pi = 3.14
-name = 'Kshitij Panday'
+name = 'Shreyas Rananaware'
 print(type(math))
 print(type(pi))
 print(type(name))
@@ -10,11 +10,11 @@ print(2+2)
 print("2"+"2")
 
 #try:
-#	val1 = int(input("Enter the First Value:"))
-#	val2 = int(input("Enter the Second Value:"))
-#	print(val1+val2)
-#except ValueError:
-#	print("Error: Please enter valid integers")
+val1 = int(input("Enter the First Value:"))
+val2 = int(input("Enter the Second Value:"))
+print(val1+val2)
+except ValueError:
+print("Error: Please enter valid integers")
 
 #typcasting values for int 
 print("typcasting values for int")
